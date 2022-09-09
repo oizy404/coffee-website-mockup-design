@@ -1,0 +1,57 @@
+.nav-bar{
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.nav-bar a{
+    color: #1B1B1D;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    float: right;
+}
+.about{
+    padding: 50px 30px 30px 30px;
+}
+.about h1{
+    font-size: 70px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    color: #281916;
+}
+.about p{
+    text-align: justify;
+    color: #281916;
+}
+.about hr{
+    border: 2px solid #281916;
+}
+.container4 h5{
+    font-weight: bold;
+}
+.container5{
+    width: 100%;
+    background-color: #1B1B1D;
+    color: white;
+    padding: 50px;
+}
+.container5 button{
+    background-color: white;
+    color: #1B1B1D;
+    font-size: 15px;
+}
+.container5 h4{
+    font-weight: bold;
+}
+.container6{
+    padding: 30px;
+}
+.container6 i{
+    font-size: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.footer p{
+    margin-bottom: 0;
+}
